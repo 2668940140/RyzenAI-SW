@@ -141,3 +141,11 @@ models/llm/logs*
 *.pth
 *.onnx
 *.pt
+
+# Building Folders
+build_aiectrl/
+build_aiert/
+build_dd/
+
+# User Config
+.vscode/
